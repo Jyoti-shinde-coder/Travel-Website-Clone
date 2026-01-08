@@ -1,7 +1,6 @@
 # TRAVL - Travel website
 A travel website created with React Js and CSS. The goal of this project for me was to get familiar with some of the fundamentals of using React Hooks and React Router. While also learning the techniques of building a responsive website using media queries. 
 
-The website can be found on [Netlify](https://nostalgic-hopper-ff2f23.netlify.app/) 
 
 
 
